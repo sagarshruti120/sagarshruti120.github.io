@@ -1,0 +1,24 @@
+ul.contact-info {list-style:none; }
+.contact-info li.phone-number:before {    
+    font-family: 'FontAwesome';
+    content: "\f10b";
+    margin:0 14px 0 -15px;
+}
+.contact-info li.mail-address:before {    
+    font-family: 'FontAwesome';
+    content: "\f003";
+    margin:0 5px 0 -15px;
+}
+.contact-info li.address:before {    
+    font-family: 'FontAwesome';
+    content: "\f041";
+    margin:0 12px 0 -15px;
+}
+.skills-sidebard{
+    background-repeat: repeat;
+    background-image: url(../images/profhome-tapete-wallpaper-371785-GU.jpg);
+}
+.skills-sidebard .ul, .skills-sidebard .h6{
+    padding-left: 25px;
+    padding-right: 25px;
+}
